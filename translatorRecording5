@@ -1,0 +1,17 @@
+Script started on Thu 14 Dec 2017 11:09:07 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ g++[[[[Kex./a.oug++ translator.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ g++ translator.cexit./a.out
+Please enter a file name: parsetBtest5
+Processing Story
+
+
+========Processing <s>========
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Processing <noun>
+SYNTAX ERROR: unexpected wa found in noun]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 11:09:32 PM PST

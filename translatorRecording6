@@ -1,0 +1,17 @@
+Script started on Thu 14 Dec 2017 11:11:22 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ ex./a.oug++ translator.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ g++ translator.cexit./a.out
+Please enter a file name: partBtest6
+Processing Story
+
+
+========Processing <s>========
+.....Scanner was called.....
+Word is: apple
+Scanner called using word: apple
+Lexical Error
+Processing <noun>
+SYNTAX ERROR: unexpected apple found in noun]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 11:11:40 PM PST

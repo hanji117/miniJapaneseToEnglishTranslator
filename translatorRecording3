@@ -1,0 +1,28 @@
+Script started on Thu 14 Dec 2017 10:57:09 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ ex./a.oug++ translator.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ g++ translator.cexit./a.out
+Please enter a file name: partBtest3
+Processing Story
+
+
+========Processing <s>========
+.....Scanner was called.....
+Word is: dakara
+dakara is a word
+Scanner called using word: dakara
+Matched CONNECTOR
+Processing <noun>
+.....Scanner was called.....
+Word is: watashi
+watashi is a word
+Scanner called using word: watashi
+Matched PRONOUN
+.....Scanner was called.....
+Word is: de
+de is a word
+Scanner called using word: de
+SYNTAX ERROR: expected SUBJECT but found de
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 10:57:38 PM PST

@@ -1,0 +1,321 @@
+Script started on Thu 14 Dec 2017 10:47:17 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ g++ translator.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ ./a.out
+Please enter a file name: partBtest1
+Processing Story
+
+
+========Processing <s>========
+.....Scanner was called.....
+Word is: watashi
+watashi is a word
+Scanner called using word: watashi
+Processing <noun>
+Matched PRONOUN
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: rika
+rika is a word
+Scanner called using word: rika
+Processing <noun>
+Matched WORD1
+Processing <Y> <afterNoun>
+.....Scanner was called.....
+Word is: desu
+desu is a word
+Scanner called using word: desu
+Processing <be>
+Matched IS
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+.....Scanner was called.....
+Word is: watashi
+watashi is a word
+Scanner called using word: watashi
+
+========Processing <s>========
+Processing <noun>
+Matched PRONOUN
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: sensei
+sensei is a word
+Scanner called using word: sensei
+Processing <noun>
+Matched WORD1
+Processing <Y> <afterNoun>
+.....Scanner was called.....
+Word is: desu
+desu is a word
+Scanner called using word: desu
+Processing <be>
+Matched IS
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+.....Scanner was called.....
+Word is: rika
+rika is a word
+Scanner called using word: rika
+
+========Processing <s>========
+Processing <noun>
+Matched WORD1
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: gohan
+gohan is a word
+Scanner called using word: gohan
+Processing <noun>
+Matched WORD1
+Processing <Y> <afterNoun>
+.....Scanner was called.....
+Word is: o
+o is a word
+Scanner called using word: o
+Matched OBJECT
+Processing <afterObject>
+.....Scanner was called.....
+Word is: tabE
+tabE is a word
+Scanner called using word: tabE
+Processing <verb>
+Matched WORD2
+Processing <tense>
+.....Scanner was called.....
+Word is: masu
+masu is a word
+Scanner called using word: masu
+Matched VERB
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+
+========Processing <s>========
+.....Scanner was called.....
+Word is: watashi
+watashi is a word
+Scanner called using word: watashi
+Processing <noun>
+Matched PRONOUN
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: tesuto
+tesuto is a word
+Scanner called using word: tesuto
+Processing <noun>
+Matched WORD1
+Processing <Y> <afterNoun>
+.....Scanner was called.....
+Word is: o
+o is a word
+Scanner called using word: o
+Matched OBJECT
+Processing <afterObject>
+.....Scanner was called.....
+Word is: seito
+seito is a word
+Scanner called using word: seito
+Processing <noun>
+Matched WORD1
+.....Scanner was called.....
+Word is: ni
+ni is a word
+Scanner called using word: ni
+Matched DESTINATION
+Processing <verb>
+.....Scanner was called.....
+Word is: agE
+agE is a word
+Scanner called using word: agE
+Matched WORD2
+Processing <tense>
+.....Scanner was called.....
+Word is: mashita
+mashita is a word
+Scanner called using word: mashita
+Matched VERBPAST
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+.....Scanner was called.....
+Word is: shikashi
+shikashi is a word
+Scanner called using word: shikashi
+
+========Processing <s>========
+Matched CONNECTOR
+Processing <noun>
+.....Scanner was called.....
+Word is: seito
+seito is a word
+Scanner called using word: seito
+Matched WORD1
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: yorokobI
+yorokobI is a word
+Scanner called using word: yorokobI
+Processing <verb>
+Matched WORD2
+Processing <tense>
+.....Scanner was called.....
+Word is: masendeshita
+masendeshita is a word
+Scanner called using word: masendeshita
+Matched VERBPASTNEG
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+.....Scanner was called.....
+Word is: dakara
+dakara is a word
+Scanner called using word: dakara
+
+========Processing <s>========
+Matched CONNECTOR
+Processing <noun>
+.....Scanner was called.....
+Word is: watashi
+watashi is a word
+Scanner called using word: watashi
+Matched PRONOUN
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: kanashii
+kanashii is a word
+Scanner called using word: kanashii
+Processing <noun>
+Matched WORD1
+Processing <Y> <afterNoun>
+.....Scanner was called.....
+Word is: deshita
+deshita is a word
+Scanner called using word: deshita
+Processing <be>
+Matched WAS
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+.....Scanner was called.....
+Word is: soshite
+soshite is a word
+Scanner called using word: soshite
+
+========Processing <s>========
+Matched CONNECTOR
+Processing <noun>
+.....Scanner was called.....
+Word is: rika
+rika is a word
+Scanner called using word: rika
+Matched WORD1
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: toire
+toire is a word
+Scanner called using word: toire
+Processing <noun>
+Matched WORD1
+Processing <Y> <afterNoun>
+.....Scanner was called.....
+Word is: ni
+ni is a word
+Scanner called using word: ni
+Matched DESTINATION
+Processing <verb>
+.....Scanner was called.....
+Word is: ikI
+ikI is a word
+Scanner called using word: ikI
+Matched WORD2
+Processing <tense>
+.....Scanner was called.....
+Word is: mashita
+mashita is a word
+Scanner called using word: mashita
+Matched VERBPAST
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+.....Scanner was called.....
+Word is: rika
+rika is a word
+Scanner called using word: rika
+
+========Processing <s>========
+Processing <noun>
+Matched WORD1
+.....Scanner was called.....
+Word is: wa
+wa is a word
+Scanner called using word: wa
+Matched SUBJECT
+Processing <X>
+.....Scanner was called.....
+Word is: nakI
+nakI is a word
+Scanner called using word: nakI
+Processing <verb>
+Matched WORD2
+Processing <tense>
+.....Scanner was called.....
+Word is: mashita
+mashita is a word
+Scanner called using word: mashita
+Matched VERBPAST
+.....Scanner was called.....
+Word is: .
+Scanner called using word: .
+Matched PERIOD
+
+========Processing <s>========
+.....Scanner was called.....
+Word is: eofm
+]0;cruz085@empress:~/cs421/CS421Progs/TranslatorFiles[cruz085@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 10:48:33 PM PST
