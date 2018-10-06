@@ -1,18 +1,21 @@
 This project demonstrates that Theory of Computing is useful in writing a language processor.
 
-It translates Japanese words into English words but only for a about 20 words and it doesn't 
-translate the way Google translate does. Instead, this program will read from a file and then 
+It translates Japanese words into English words but only for about 20 words and it doesn't 
+translate the way Google translate does. Instead, this program will read from a file, then 
 translate and categorize the words. 
 
 For example, if watashi is the first word in the text file then it will be placed 
-in the actor category. test1results contains the result for partBtest1.
+in the actor category. To get a visual of what it will look like see test1results. 
+test1results contains the result for partBtest1.
 
 To try it out, compile translator.cpp and enter the file name partBtest1, partBtest2, partBtest3, 
 partBtest4, partBtest5, or partBtest6. partBtest1 through partBtest6 have sentences in Japanese. 
-After the program runs an output file will be created called translated.txt with the Japanese 
-words translated into English and categorized. If you entered partBtest1, the translated.txt file and the test1results file should match.
-Once you run the program again and enter partBtest2, the new translated.txt file will overwrite the previous translated.txt file. 
-Japanese words translated into English and placed into their corresponding category. 
+After the program runs and the user enters one of the test cases, an output file will be created 
+called translated.txt with the Japanese words translated into English and categorized. 
+If you entered partBtest1, the translated.txt file and the test1results file should match.
+Once the user runs the program again and enters partBtest2, the new translated.txt file will 
+overwrite the previous translated.txt file. 
+
 
 
 
