@@ -5,15 +5,16 @@ translate the way Google translate does. Instead, this program will read from a 
 translate and categorize the words. 
 
 For example, if watashi is the first word in the text file then it will be placed 
-in the actor category. To get a visual of what it will look like see test1results. 
+in the actor category. To get a visual of what it will look like see test1results (this file was
+provided by my professor to show us what we should be getting after testing partBtest1). 
 test1results contains the result for partBtest1.
 
 To try it out, compile translator.cpp and enter the file name partBtest1, partBtest2, partBtest3, 
 partBtest4, partBtest5, or partBtest6. partBtest1 through partBtest6 have sentences in Japanese. 
 After the program runs and the user enters one of the test cases, an output file will be created 
 called translated.txt with the Japanese words translated into English and categorized. 
-If you entered partBtest1, the translated.txt file and the test1results file should match.
-Once the user runs the program again and enters partBtest2, the new translated.txt file will 
+If the user entered partBtest1, the translated.txt file should match the test1results file.
+Once the user runs the program again and enters another test case, the new translated.txt file will 
 overwrite the previous translated.txt file. 
 
 
