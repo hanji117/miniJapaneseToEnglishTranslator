@@ -12,7 +12,7 @@ provided by my professor to show us what we should be getting after testing part
 test1results contains the result for partBtest1.
 
 To try it out, compile translator.cpp and enter the file name partBtest1, partBtest2, partBtest3, 
-partBtest4, partBtest5, or partBtest6. partBtest1 through partBtest6 have sentences in Japanese. 
+partBtest4, partBtest5, or partBtest6. partBtest1 through partBtest6 contain sentences in Japanese. 
 After the program runs and the user enters one of the test cases, an output file will be created 
 called translated.txt with the Japanese words translated into English and categorized. 
 If the user entered partBtest1, the translated.txt file should match the test1results file.
